@@ -2,7 +2,7 @@
 import psutil
 import urllib, requests
 # Get CPU usage as a percentage
-cpu_percent = psutil.cpu_percent()
+cpu_percent = psutil.cpu_percent(2)
 
 # Get virtual memory usage
 mem = psutil.virtual_memory()
