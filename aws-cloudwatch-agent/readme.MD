@@ -2,6 +2,6 @@
 
 # Download the suitable version of the agent from the official site
 ```bash 
-wget https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/install-CloudWatch-Agent-commandline-fleet.html
+https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/install-CloudWatch-Agent-commandline-fleet.html
 ```
 
