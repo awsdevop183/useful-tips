@@ -5,3 +5,4 @@
 https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/install-CloudWatch-Agent-commandline-fleet.html
 ```
 
+# I am using Ubuntu, so I dowloaded the suitable version for Ubuntu
